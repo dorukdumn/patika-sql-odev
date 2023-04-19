@@ -1,2 +1,2 @@
-# patika-sql-odev1
-PATİKA SQL ÖDEV-1
+# patika-sql-odevler
+PATİKA SQL ÖDEVLER
